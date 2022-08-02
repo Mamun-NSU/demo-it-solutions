@@ -1,0 +1,4 @@
+
+CREATE APP: npx create-react-app demo-it-solutions
+REACT BOOTSTRAP: npm i react-bootstrap
+REACT ROUTER DOM: npm i react-router-dom
